@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @katharinazlosa
-- 👀 I’m interested in html, css and javascript.
-- 🌱 I’m currently learning javascript.
 - 📫 How to reach me -> email: katharinazlosa@gmail.com
 
 <!---
